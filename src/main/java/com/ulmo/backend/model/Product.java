@@ -1,8 +1,8 @@
 package com.ulmo.backend.model;
 
-import jakarta.persistence.*;  // ⬅️ MUHIM: jakarta.persistence import qiling!
+import jakarta.persistence.*;  // ⬅ MUHIM: jakarta.persistence import qiling!
 
-@Entity  // ⬅️ BU ANOTATSIYA KERAK!
+@Entity  // ⬅ BU ANOTATSIYA KERAK!
 @Table(name = "products")
 public class Product {
 
